@@ -20,6 +20,25 @@ If you want to use our App in your research, please cite:
   volume={},
   number={},
   pages={1-6},}
+  
+@article{TPAMI18ACR,
+  title={Active camera relocalization from a single reference image without hand-eye calibration},
+  author={Tian, Fei-Peng and Feng, Wei and Zhang, Qian and Wang, Xiaowei and Sun, Jizhou and Loia, Vincenzo and Liu, Zhi-Qiang},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={41},
+  number={12},
+  pages={2791--2806},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{IJCAI18ALR,
+  title={Active Recurrence of Lighting Condition for Fine-Grained Change Detection.},
+  author={Zhang, Qian and Feng, Wei and Wan, Liang and Tian, Fei-Peng and Tan, Ping},
+  booktitle={IJCAI},
+  pages={4972--4978},
+  year={2018}
+}
 ```
 
 ## Usage
